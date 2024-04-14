@@ -6,6 +6,10 @@
 
 #Also requires internet connection for retrievening the pdf file from url.
 
-#You can implement the repository to your android project as
+#You can implement the repository to your android project through jitpack. Thus, first add this line
+
+- maven("https://jitpack.io")
+
+Then you can implement the library as
 
 `implementation("com.github.UgurGuner:PdfViewerCompose:1.0.1")`
