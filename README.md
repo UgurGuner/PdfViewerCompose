@@ -7,3 +7,5 @@
 #Also requires internet connection for retrievening the pdf file from url.
 
 #You can implement the repository to your android project as
+
+`implementation("com.github.UgurGuner:PdfViewerCompose:1.0.1")`
