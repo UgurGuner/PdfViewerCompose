@@ -54,7 +54,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.github.UgurGuner"
                 artifactId = "pdf-preview-compose"
-                version = "1.0.1"
+                version = "1.0.2"
             }
         }
     }
