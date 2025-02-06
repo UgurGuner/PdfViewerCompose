@@ -4,7 +4,7 @@
 
 #New functionalities will be coming in the upcoming months.
 
-#Also requires internet connection for retrievening the pdf file from url.
+#Also requires internet connection for retrieving the pdf file from url.
 
 #You can implement the repository to your android project as
 
